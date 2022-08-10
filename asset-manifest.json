@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mirroxgl/static/css/main.52bb0b33.css",
+    "main.js": "/mirroxgl/static/js/main.4c14765f.js",
+    "static/js/787.67b99310.chunk.js": "/mirroxgl/static/js/787.67b99310.chunk.js",
+    "static/media/me.jpg": "/mirroxgl/static/media/me.d344c9af5c1667dd540d.jpg",
+    "static/media/AboutMe.jpg": "/mirroxgl/static/media/AboutMe.f02a15559825e6a854f3.jpg",
+    "static/media/sellingbycecles.png": "/mirroxgl/static/media/sellingbycecles.38e56650645b31af4f5c.png",
+    "static/media/freeFilms.png": "/mirroxgl/static/media/freeFilms.b78912f6c9951412394b.png",
+    "static/media/mogo.png": "/mirroxgl/static/media/mogo.e69f4c1f6f64c4af686c.png",
+    "static/media/socialNetwork.png": "/mirroxgl/static/media/socialNetwork.f526a2fbb172a212a5aa.png",
+    "static/media/bg.png": "/mirroxgl/static/media/bg.684928c6dd791afe1081.png",
+    "index.html": "/mirroxgl/index.html",
+    "main.52bb0b33.css.map": "/mirroxgl/static/css/main.52bb0b33.css.map",
+    "main.4c14765f.js.map": "/mirroxgl/static/js/main.4c14765f.js.map",
+    "787.67b99310.chunk.js.map": "/mirroxgl/static/js/787.67b99310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52bb0b33.css",
+    "static/js/main.4c14765f.js"
+  ]
+}
